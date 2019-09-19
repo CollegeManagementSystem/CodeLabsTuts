@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeLabsTuts</string>
+    <string name="silent">Silent</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="ringer">Ringer</string>
+    <string name="channel_description">This is to test notification in user app</string>
+    <string name="channel_name">Categories</string>
+</resources>
