@@ -5,4 +5,5 @@
     <string name="ringer">Ringer</string>
     <string name="channel_description">This is to test notification in user app</string>
     <string name="channel_name">Categories</string>
+    <string name="faltu">Faaltu</string>
 </resources>
